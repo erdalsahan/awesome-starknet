@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="starknet logo" src="./assets/starknet.png" width="200" >
+   <img alt="starknet logo" src="./assets/starknet.png" width="200" >
   <h1 align="center">Awesome Starknet</h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
